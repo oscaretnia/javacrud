@@ -1,0 +1,1 @@
+dao.exceptions.NonexistentEntityException
